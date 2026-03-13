@@ -20,12 +20,13 @@
 
  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
  
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shengeliazurab06-ui&theme=aura&show_icons=true&hide_border=false)
+# 📊 GitHub Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=shengeliazurab06-ui&theme=aura&hide_border=false)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shengeliazurab06-ui&show_icons=true&theme=aura)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shengeliazurab06-ui&theme=aura&hide_border=false&layout=compact)
+![GitHub streak](https://streak-stats.demolab.com?user=shengeliazurab06-ui&theme=aura)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shengeliazurab06-ui&layout=compact&theme=aura)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shengeliazurab06-ui&theme=neon&no-frame=false&no-bg=true&margin-w=4)
