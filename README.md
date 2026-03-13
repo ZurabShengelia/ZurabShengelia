@@ -22,11 +22,11 @@
  
 # 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shengeliazurab06-ui&show_icons=true&theme=aura)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZurabShengelia&show_icons=true&theme=aura)
 
-![GitHub streak](https://streak-stats.demolab.com?user=shengeliazurab06-ui&theme=aura)
+![GitHub Streak](https://streak-stats.demolab.com?user=ZurabShengelia&theme=aura)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shengeliazurab06-ui&layout=compact&theme=aura)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZurabShengelia&layout=compact&theme=aura)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shengeliazurab06-ui&theme=neon&no-frame=false&no-bg=true&margin-w=4)
