@@ -1,12 +1,12 @@
 # 💫 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2DE2B7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Zurab+Shengelia+%F0%9F%91%8B;Computer+Science+Student;Full-Stack+Developer+in+Progress;Cybersecurity+Enthusiast;Linux+User+%7C+Open+Source+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=2DE2B7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Zurab+Shengelia;Computer+Science+Student;Full-Stack+Developer+in+Progress;Cybersecurity+Enthusiast;Linux+%26+Open+Source+Learner" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/FOCUS-Cybersecurity-20C997?style=flat-square&labelColor=101820" />
-  <img src="https://img.shields.io/badge/ROLE-Developer-38BDF8?style=flat-square&labelColor=101820" />
+  <img src="https://img.shields.io/badge/ROLE-Full--Stack%20Developer-38BDF8?style=flat-square&labelColor=101820" />
   <img src="https://img.shields.io/badge/OS-Linux-8B7CFF?style=flat-square&labelColor=101820" />
 </p>
 
@@ -14,15 +14,15 @@
 
 ### 👨‍💻 About Me
 
-Hi! I'm **Zurab Shengelia**, a Computer Science student interested in software development, Linux, and cybersecurity.
+Hi, I'm **Zurab Shengelia**, a Computer Science student interested in software development, cybersecurity, and open-source technologies.
 
 - 🚀 Started my programming journey at the age of **14**.
-- ⌨️ Wrote my first lines of code using **Brackets**.
-- 🎮 My passion for gaming inspired me to explore programming.
-- 💻 Building projects and improving my full-stack development skills.
-- 🛡️ Learning about cybersecurity, web application security, and networking.
-- 🐧 Daily Linux user who enjoys exploring different Linux distributions.
-- 🌱 Always learning, experimenting, and improving.
+- ⌨️ Wrote my first lines of code using Brackets.
+- 🎮 Gaming originally sparked my interest in programming.
+- 💻 Building full-stack applications and exploring different technologies.
+- 🛡️ Interested in cybersecurity, web application security, and networking.
+- 🐧 Daily Linux user who enjoys exploring different distributions.
+- 🌱 Always learning through experimentation and personal projects.
 
 ---
 
@@ -36,6 +36,7 @@ Hi! I'm **Zurab Shengelia**, a Computer Science student interested in software d
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white" />
@@ -44,12 +45,20 @@ Hi! I'm **Zurab Shengelia**, a Computer Science student interested in software d
 #### ⚙️ Backend Development
 
 <p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+</p>
+
+#### 🗄️ Databases
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 #### 🔐 Authentication & Security
@@ -59,9 +68,10 @@ Hi! I'm **Zurab Shengelia**, a Computer Science student interested in software d
   <img src="https://img.shields.io/badge/HTTP--Only_Cookies-0F766E?style=for-the-badge&logo=letsencrypt&logoColor=white" />
 </p>
 
-- 🔑 JWT authentication using access and refresh tokens.
-- 🍪 Token storage in `httpOnly` cookies.
-- 🛡️ Learning secure authentication and web application security practices.
+- JWT authentication with access and refresh tokens.
+- HTTP-only cookie-based token storage.
+- Secure authentication and authorization practices.
+- Learning web application security and secure coding.
 
 #### 🧪 Testing
 
@@ -76,8 +86,18 @@ Hi! I'm **Zurab Shengelia**, a Computer Science student interested in software d
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+#### 🎮 Graphics, Real-Time & AI
+
+<p>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Yjs-7C3AED?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/ComfyUI-20232A?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 #### 🧰 Tools & Platforms
@@ -88,6 +108,7 @@ Hi! I'm **Zurab Shengelia**, a Computer Science student interested in software d
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
 </p>
 
 ---
@@ -103,7 +124,7 @@ Hi! I'm **Zurab Shengelia**, a Computer Science student interested in software d
 - 🖥️ **Nobara Linux:** My main desktop operating system.
 - 🔍 **Kali Linux:** Used in a virtual machine for cybersecurity practice.
 - 🦜 **Parrot OS:** Used on my laptop for Linux and security learning.
-- ⌨️ Comfortable exploring Linux environments and working with the terminal.
+- ⌨️ Working with Linux terminals, command-line utilities, and development environments.
 
 ---
 
@@ -116,34 +137,44 @@ Hi! I'm **Zurab Shengelia**, a Computer Science student interested in software d
   <img src="https://img.shields.io/badge/Linux_Security-475569?style=flat-square" />
 </p>
 
-- 🌐 Web application security
-- 🔐 Authentication and secure coding
-- 🌍 Networking fundamentals
-- 🔎 Security tools and vulnerability analysis
-- 🐧 Linux and command-line tools
+- Web application security and vulnerability analysis.
+- Authentication, authorization, and secure coding.
+- Networking fundamentals and network security.
+- Linux security and command-line tools.
+- Exploring penetration testing methodologies.
 
 ---
 
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ZurabShengelia&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2DE2B7&icon_color=8B7CFF&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZurabShengelia&layout=compact&hide_border=true&bg_color=0D1117&title_color=2DE2B7&text_color=C9D1D9" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ZurabShengelia&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2DE2B7&icon_color=8B7CFF&text_color=C9D1D9&rank_icon=github&include_all_commits=true" alt="GitHub Statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZurabShengelia&layout=compact&hide_border=true&bg_color=0D1117&title_color=2DE2B7&text_color=C9D1D9&langs_count=8" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ZurabShengelia&hide_border=true&background=0D1117&ring=2DE2B7&fire=8B7CFF&currStreakLabel=2DE2B7&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ZurabShengelia&hide_border=true&background=0D1117&ring=2DE2B7&fire=8B7CFF&currStreakLabel=2DE2B7&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Contribution Streak" />
 </p>
 
 ---
 
-### 🎯 My Goals
+### 🏆 GitHub Achievements
 
-- Build useful and well-structured full-stack applications.
-- Improve my TypeScript, React, Node.js, and database skills.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ZurabShengelia&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub Profile Trophies" />
+</p>
+
+---
+
+### 🎯 Current Goals
+
+- Build practical and well-structured full-stack applications.
+- Improve my React, TypeScript, Next.js, and Go skills.
+- Develop backend applications using PostgreSQL and MongoDB.
+- Explore real-time applications and collaborative software.
 - Learn more about cybersecurity and secure software development.
-- Become more confident using Linux and its command-line tools.
-- Keep learning by building real projects.
+- Become more confident with Linux, networking, and system administration.
+- Contribute to open-source projects and build a stronger portfolio.
 
 ---
 
