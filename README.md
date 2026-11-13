@@ -96,8 +96,9 @@ Hi, I'm **Zurab Shengelia**, a Computer Science student interested in software d
 
 <p>
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Yjs-7C3AED?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Yjs-7C3AED?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ComfyUI-20232A?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
 </p>
 
 #### 🧰 Tools & Platforms
@@ -108,7 +109,6 @@ Hi, I'm **Zurab Shengelia**, a Computer Science student interested in software d
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
 </p>
 
 ---
@@ -148,12 +148,8 @@ Hi, I'm **Zurab Shengelia**, a Computer Science student interested in software d
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ZurabShengelia&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2DE2B7&icon_color=8B7CFF&text_color=C9D1D9&rank_icon=github&include_all_commits=true" alt="GitHub Statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZurabShengelia&layout=compact&hide_border=true&bg_color=0D1117&title_color=2DE2B7&text_color=C9D1D9&langs_count=8" alt="Most Used Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ZurabShengelia&hide_border=true&background=0D1117&ring=2DE2B7&fire=8B7CFF&currStreakLabel=2DE2B7&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Contribution Streak" />
+  <img height="170" src="./profile/stats.svg" alt="GitHub Statistics" />
+  <img height="170" src="./profile/top-langs.svg" alt="Most Used Languages" />
 </p>
 
 ---
@@ -161,7 +157,9 @@ Hi, I'm **Zurab Shengelia**, a Computer Science student interested in software d
 ### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ZurabShengelia&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub Profile Trophies" />
+  <a href="https://github.com/ZurabShengelia?tab=achievements">
+    <img src="https://img.shields.io/badge/View-GitHub%20Achievements-2DE2B7?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="View GitHub Achievements" />
+  </a>
 </p>
 
 ---
